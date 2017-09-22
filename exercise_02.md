@@ -20,4 +20,6 @@ position = position.move(speed)
 screen.bilt(object,position)
 pygame.display.flip()
 pygame.time.delay(20)
+#帧数延时，可以观察到移动
+ 
 ```
