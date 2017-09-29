@@ -13,7 +13,7 @@ y=odeint(f,y0,t)    #使用obeint函数求解微分方程
 plt.plot(t,y,'b')   #将结果的numpy数组绘制为曲线
 plt.xlabel('time year') #x轴名称
 plt.title('Increasing population') #y轴名称
-plt.ylim([0,1000000000]) #y轴的显示范围
+plt.ylim([0,200]) #y轴的显示范围
 plt.show #绘制曲线图
 ```
 
@@ -32,5 +32,5 @@ y=odeint(f,y0,t)    #使用obeint函数求解微分方程
 plt.plot(t,y,'b')   #将结果的numpy数组绘制为曲线
 plt.xlabel('time year') #x轴名称
 plt.title('Increasing population') #y轴名称
-plt.ylim([0,10000000000000000]) #y轴的显示范围
+plt.ylim([0,20000]) #y轴的显示范围
 plt.show #绘制曲线图
