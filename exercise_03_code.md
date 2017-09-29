@@ -4,7 +4,7 @@ from scipy.integrate import odeint
 import numpy as N
 import matplotlib.pyplot as plt
 def f(y,t):
-    return 10*y-3*y #定义常微分方程组的形式
+    return 10*y-3*y*y #定义常微分方程组的形式
 y0=100 #规定初始人数
 a=0 #规定起始年份
 b=3#规定终止的年份
@@ -23,7 +23,7 @@ from scipy.integrate import odeint
 import numpy as N
 import matplotlib.pyplot as plt
 def f(y,t):
-    return 10*y-0.01*y #定义常微分方程组的形式
+    return 10*y-0.01*y*y #定义常微分方程组的形式
 y0=10000 #规定初始人数
 a=0 #规定起始年份
 b=3#规定终止的年份
