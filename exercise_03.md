@@ -16,4 +16,4 @@
   题目的第二种情况 定初始人数为10000 a=10 b=0.01
   ！[image](https://github.com/Liowen0918/computational_physics_N2015302290042/case2.png)
  
-  代码：https://github.com/Liowen0918/computational_physics_N2015302290042/blob/master/exercise_03_code.md
+    代码：https://github.com/Liowen0918/computational_physics_N2015302290042/blob/master/exercise_03_code.md
