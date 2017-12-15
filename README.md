@@ -24,3 +24,5 @@ Exercise_10:http://note.youdao.com/noteshare?id=d10ea65f5224265850893235fcf01826
 Exercise_11:http://note.youdao.com/noteshare?id=15ded17de7f4dcd6e88685be5c0e1de8
 
 Midterm:http://note.youdao.com/noteshare?id=2e69a30565b68907e043d64837e2b5fb
+
+Exercise_12:http://note.youdao.com/noteshare?id=a6c0365e93a3a574be5f70ed6dd87400
